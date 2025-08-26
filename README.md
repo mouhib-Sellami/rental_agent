@@ -17,7 +17,7 @@ An intelligent agent for managing rental queries, powered by **Ollama** and vect
 
    ```bash
    ollama pull mxbai-embed-large
-   ollama pull qwen3:8b
+   ollama pull qwen3:8b or llama3.2
    ```
 
 2. **Create and activate a virtual environment:**
